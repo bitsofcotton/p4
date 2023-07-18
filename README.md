@@ -8,3 +8,7 @@ Get time machine bit from invariant observation, however, this can be getting br
 This is only stub repository.
 We need operators on F\_2^4 as invariant observation cohesion list.
 If some another parallel executing computers on some range, this can get broken result as well.
+
+# Tools are not enough
+We need at least one concrete compiler and base system and base mpu, memory, ... (calculation system) as fully compatible and no harm on low of excluded middle.
+Either, we need the list up method they harms on low of excluded middle as a parts (can we do this???)
